@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1200&color=6C7A89&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+m4nun;Full+Stack+Developer;Machine+Learning+Explorer;Agentic+AI+Builder;Building+the+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1200&color=6C7A89&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+m4nun;Full+Stack+Developer;Machine+Learning+Explorer;Agentic+AI+Builder;Aspiring+Entrepreneur;Building+the+Future" alt="Typing SVG" />
   </a>
 </div>
 
 &nbsp;
 
-> **I'm Burapat.** An 18-year-old high school student from Thailand, building at the intersection of machine learning, large language models, and agentic AI — with the mission to found a startup that changes the world.
+> **I'm Burapat.** An 18-year-old high school student from Thailand. I move between code and business — building with machine learning, LLMs, and agentic AI while learning what it takes to be an entrepreneur. Developer or founder? Maybe both.
 
 ---
 
