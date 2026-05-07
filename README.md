@@ -6,7 +6,7 @@
 
 &nbsp;
 
-> **I'm Burapat.** An 18-year-old high school student from Thailand. I move between code and business — building with machine learning, LLMs, and agentic AI while learning what it takes to be an entrepreneur. Developer or founder? Maybe both.
+> **I'm Burapat.** An 18-year-old high school student from Thailand. I learn fast and I believe I can build anything I set my mind to. I move between code and business — not sure if I'll end up a developer or a founder. Maybe both.
 
 ---
 
